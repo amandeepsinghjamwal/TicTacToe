@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InternshipApps</string>
+    <string name="create_acc">Create Account</string>
+    <string name="Login">Login Form</string>
+    <string name="email_hint">Email id</string>
+    <string name="pswd_hint">Password</string>
+    <string name="login_btn">login</string>
+
+</resources>
